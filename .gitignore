@@ -1,0 +1,68 @@
+# =============================
+# Python
+# =============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+alpha/
+.venv/
+alpha/
+*.env
+
+# =============================
+# Streamlit
+# =============================
+.streamlit/secrets.toml
+.streamlit/config.toml
+.streamlit/
+
+# =============================
+# Project Artifacts
+# =============================
+*.log
+*.sqlite3
+*.db
+*.pkl
+*.joblib
+*.csv
+*.xlsx
+*.json
+*.gz
+
+# =============================
+# Jupyter / IPython
+# =============================
+.ipynb_checkpoints/
+*.ipynb
+
+# =============================
+# Build / Distribution
+# =============================
+build/
+dist/
+*.egg-info/
+.eggs/
+MANIFEST
+
+# =============================
+# IDE & OS Files
+# =============================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+
+# =============================
+# Cache & Temporary Files
+# =============================
+*.tmp
+*.temp
+*.log
+.cache/
+logs/
+__MACOSX/
