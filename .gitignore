@@ -26,7 +26,6 @@ alpha/
 *.sqlite3
 *.db
 *.joblib
-*.csv
 *.xlsx
 *.json
 *.gz
