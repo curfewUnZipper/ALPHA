@@ -25,7 +25,6 @@ alpha/
 *.log
 *.sqlite3
 *.db
-*.pkl
 *.joblib
 *.csv
 *.xlsx
