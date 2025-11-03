@@ -87,5 +87,127 @@ career_paths = {
         "4️⃣ Integrate IoT data with cloud services (AWS, Azure, Google IoT).",
         "5️⃣ Build end-to-end IoT systems with dashboards and mobile integration.",
         "6️⃣ Apply for IoT solution development, system integration, or analytics roles."
+    ],
+
+    "Robotics Engineer": [
+        "1️⃣ Learn mechanical, electrical, and computer engineering basics.",
+        "2️⃣ Master robotics kinematics, control, and AI-based motion planning.",
+        "3️⃣ Work with ROS, Gazebo, and Python/C++ for robot control.",
+        "4️⃣ Build autonomous systems using sensors and actuators.",
+        "5️⃣ Integrate computer vision and reinforcement learning modules.",
+        "6️⃣ Apply for roles in robotics startups, research labs, or manufacturing."
+    ],
+
+    "AI Hardware Engineer": [
+        "1️⃣ Study computer architecture and ML accelerators.",
+        "2️⃣ Learn GPU/TPU optimization and FPGA-based inference.",
+        "3️⃣ Use tools like Vivado HLS, TensorRT, and CUDA.",
+        "4️⃣ Design edge-AI accelerators and embedded inference engines.",
+        "5️⃣ Collaborate with AI researchers for hardware-software co-design.",
+        "6️⃣ Apply for AI hardware or chip design roles."
+    ],
+
+    "Mechatronics Engineer": [
+        "1️⃣ Study electrical, mechanical, and computer control systems.",
+        "2️⃣ Learn sensor-actuator interfacing and robotics design.",
+        "3️⃣ Build smart systems with microcontrollers and pneumatics.",
+        "4️⃣ Use simulation tools like LabVIEW and MATLAB.",
+        "5️⃣ Develop mechatronic prototypes for automation or robotics.",
+        "6️⃣ Work in automotive, robotics, or manufacturing industries."
+    ],
+
+    "Machine Learning Engineer": [
+        "1️⃣ Learn Python, TensorFlow, and Scikit-learn.",
+        "2️⃣ Master supervised/unsupervised learning algorithms.",
+        "3️⃣ Optimize models for embedded or cloud environments.",
+        "4️⃣ Use ML pipelines for data preprocessing and deployment.",
+        "5️⃣ Work in AI, analytics, or automation teams."
+    ],
+
+    "Biomedical Engineer": [
+        "1️⃣ Study bio-instrumentation, medical devices, and sensors.",
+        "2️⃣ Learn anatomy, physiology, and control systems.",
+        "3️⃣ Build healthcare monitoring or prosthetic systems.",
+        "4️⃣ Collaborate with hospitals and research labs.",
+        "5️⃣ Apply for roles in med-tech, R&D, or clinical device firms."
+    ],
+
+    "Signal Processing Engineer": [
+        "1️⃣ Learn DSP, filter design, and spectral analysis.",
+        "2️⃣ Use MATLAB, Python, and C for real-time processing.",
+        "3️⃣ Work with image, speech, or biomedical signals.",
+        "4️⃣ Build signal-processing algorithms for sensors or IoT.",
+        "5️⃣ Apply for telecom, radar, or audio processing roles."
+    ],
+
+    "Data Scientist (Engineering)": [
+        "1️⃣ Learn statistics, Python, and data visualization.",
+        "2️⃣ Work with NumPy, Pandas, and ML frameworks.",
+        "3️⃣ Develop predictive models and dashboards.",
+        "4️⃣ Apply data insights in engineering domains.",
+        "5️⃣ Work in analytics, AI, or research companies."
+    ],
+
+    "Network Systems Engineer": [
+        "1️⃣ Learn computer networks, routing, and cybersecurity.",
+        "2️⃣ Master network protocols (TCP/IP, MQTT, CAN).",
+        "3️⃣ Configure routers, switches, and firewalls.",
+        "4️⃣ Work in IT, telecom, or IoT network management.",
+        "5️⃣ Apply for network architecture or cloud infrastructure roles."
+    ],
+
+    "AI Research Engineer": [
+        "1️⃣ Study advanced ML, NLP, and deep reinforcement learning.",
+        "2️⃣ Conduct research in optimization or AI ethics.",
+        "3️⃣ Publish papers and contribute to open-source projects.",
+        "4️⃣ Collaborate with universities and AI institutes.",
+        "5️⃣ Work as a research engineer or ML scientist."
+    ],
+
+    "Product Design Engineer": [
+        "1️⃣ Learn CAD tools like SolidWorks or Fusion 360.",
+        "2️⃣ Integrate electronics and mechanics in prototypes.",
+        "3️⃣ Build 3D-printed product models and validate ergonomics.",
+        "4️⃣ Collaborate with design and hardware teams.",
+        "5️⃣ Apply for roles in consumer product or industrial design."
+    ],
+
+    "Creative Technologist": [
+        "1️⃣ Combine coding, electronics, and design for interactive systems.",
+        "2️⃣ Experiment with creative coding (p5.js, Processing).",
+        "3️⃣ Build interactive art, installations, or smart experiences.",
+        "4️⃣ Work at the intersection of design, art, and technology.",
+        "5️⃣ Join innovation labs, creative studios, or experiential design firms."
+    ],
+
+    "Game Developer": [
+        "1️⃣ Learn game engines like Unity or Unreal.",
+        "2️⃣ Study 3D graphics, physics, and interaction design.",
+        "3️⃣ Implement gameplay logic using C# or C++.",
+        "4️⃣ Create your own games or AR/VR experiences.",
+        "5️⃣ Work for gaming, simulation, or education tech companies."
+    ],
+
+    "AR/VR Engineer": [
+        "1️⃣ Learn Unity, Unreal, and AR SDKs (ARCore, ARKit).",
+        "2️⃣ Build immersive 3D experiences.",
+        "3️⃣ Integrate IoT or AI for smart environments.",
+        "4️⃣ Apply for AR/VR development or XR prototyping roles."
+    ],
+
+    "UI/UX Designer": [
+        "1️⃣ Learn design principles, color theory, and typography.",
+        "2️⃣ Use Figma, Adobe XD, or Sketch.",
+        "3️⃣ Create wireframes and prototypes.",
+        "4️⃣ Conduct user research and usability testing.",
+        "5️⃣ Apply for UI/UX or interaction design roles."
+    ],
+
+    "Industrial Designer": [
+        "1️⃣ Learn industrial design principles and ergonomics.",
+        "2️⃣ Master CAD modeling and visualization tools.",
+        "3️⃣ Prototype using 3D printing and CNC machining.",
+        "4️⃣ Work on product aesthetics and functionality.",
+        "5️⃣ Apply for consumer goods or hardware design positions."
     ]
 }
